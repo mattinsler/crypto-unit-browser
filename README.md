@@ -1,1 +1,1 @@
-# crypto-unit
+# crypto-unit-browser
